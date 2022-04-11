@@ -1,0 +1,26 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "Minesweeper game",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ono5/minesweeper.git"
+  },
+  "keywords": [
+    "React",
+    "Redux"
+  ],
+  "author": "H.O",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ono5/minesweeper/issues"
+  },
+  "homepage": "https://github.com/ono5/minesweeper#readme",
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
